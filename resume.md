@@ -24,7 +24,9 @@ Contributed to writing, debugging, and optimizing algorithms for buildings picki
 - Performed conceptual research and presented them during meetings, facilitating algorithm development
 
 ### Ijiwei Co. (Shanghai, China)
-*[Ijiwei][] engages in the development and operation of media network. It is one of China's biggest advertising company.*
+*[Ijiwei][] *
+
+**Editor Intern** (June 2021 - September 2021)
 
 
 [UW Home Page]: https://www.washington.edu/
