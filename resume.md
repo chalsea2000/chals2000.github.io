@@ -27,6 +27,7 @@
 >[Focus Media][] engages in the development and operation of media network. It is one of China's biggest advertising company.
 
 ![focusmedia](img/focusmedia.png)
+
 **Algorithm Engineer Intern** (June 2020 - September 2020)
 
 Contributed to writing, debugging, and optimizing algorithms for buildings picking, route planning, anomaly detection, address-similarity, etc. in Python
@@ -41,11 +42,15 @@ Contributed to writing, debugging, and optimizing algorithms for buildings picki
 >[Ijiwei][] 
 
 ![ijiwei](img/ijiwei.png)
+
 **Editor Intern** (June 2021 - September 2021)
+
+- Read and translate passages or interviews regarding semiconductor, for example from the Wall Street Journal, Yole Développement, Semiconductor Engineer, etc. (English to Chinese or vice versa)
+- Transcribe lengthy interviews (in English)
+- Proofread other passages or transcriptions 
+- Translate interview questions
 
 
 [UW Home Page]: https://www.washington.edu/
 [Focus Media]: https://www.focusmedia.cn/en
 [Ijiwei]: https://www.focusmedia.cn/en
-- Executed the code creating automated reports in excel format, providing business insights
-- Accomplished data mining and analysis from the monitor platform 
