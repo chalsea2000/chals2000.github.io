@@ -3,17 +3,30 @@
 ## Education
 
 ### University of Washington: Seattle Campus (September 2019 - June 2023)
-*[UW Home Page]*
 
 **Major: Geography: Data Science** 
 **Minor: Applied Mathematics, Informatics**
+
+*[UW Home Page]*
+![UW](img/uw.jpeg)
+
+## School Experience
+
+### Alpha Phi Omega 
+- Attend meetings and complete service, leadership, and fellowship activities
+
+### Husky Help Organization
+- Responsible of the video production and photography for the club
+- Communicate with event planning and marketing departments to better promote the club
 
 
 ## Work Experience 
 
 ### Focus Media IT Co. (Shanghai, China)
-*[Focus Media][] engages in the development and operation of media network. It is one of China's biggest advertising company.*
 
+>[Focus Media][] engages in the development and operation of media network. It is one of China's biggest advertising company.
+
+![focusmedia](img/focusmedia.png)
 **Algorithm Engineer Intern** (June 2020 - September 2020)
 
 Contributed to writing, debugging, and optimizing algorithms for buildings picking, route planning, anomaly detection, address-similarity, etc. in Python
@@ -24,11 +37,15 @@ Contributed to writing, debugging, and optimizing algorithms for buildings picki
 - Performed conceptual research and presented them during meetings, facilitating algorithm development
 
 ### Ijiwei Co. (Shanghai, China)
-*[Ijiwei][] *
 
+>[Ijiwei][] 
+
+![ijiwei](img/ijiwei.png)
 **Editor Intern** (June 2021 - September 2021)
 
 
 [UW Home Page]: https://www.washington.edu/
 [Focus Media]: https://www.focusmedia.cn/en
 [Ijiwei]: https://www.focusmedia.cn/en
+- Executed the code creating automated reports in excel format, providing business insights
+- Accomplished data mining and analysis from the monitor platform 
