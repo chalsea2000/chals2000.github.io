@@ -1,4 +1,4 @@
-# Chalsea Chen
+# Chalsea Forrest Chen
 
 ## Education
 
