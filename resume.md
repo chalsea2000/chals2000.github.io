@@ -22,9 +22,9 @@
 
 ## Work Experience 
 
-### Focus Media IT Co. (Shanghai, China)
+### Focus Media Information Technology Co. (Shanghai, China)
 
->[Focus Media][] engages in the development and operation of media network. It is one of China's biggest advertising company.
+>[Focus Media][] engages in the development and operation of media network. It operates one of the largest out-of-home advertising network in China.
 
 ![focusmedia](img/focusmedia.png)
 
@@ -37,11 +37,11 @@ Contributed to writing, debugging, and optimizing algorithms for buildings picki
 - Supported the development of a photo quality identification application
 - Performed conceptual research and presented them during meetings, facilitating algorithm development
 
-### Ijiwei Co. (Shanghai, China)
+### JW Insights Consulting Co. (Shanghai, China)
 
->[Ijiwei][] 
+>[Ijiwei][] also called JW Insights Consulting (Xiamen) Co. is a leading professional IC and related ICT industry consulting services provider in China.
 
-![ijiwei](img/ijiwei.png)
+![ijiwei](img/ijiwei.png) 
 
 **Editor Intern** (June 2021 - September 2021)
 
