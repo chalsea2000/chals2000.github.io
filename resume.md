@@ -5,9 +5,11 @@
 ### University of Washington: Seattle Campus (September 2019 - June 2023)
 
 **Major: Geography: Data Science** 
+
 **Minor: Applied Mathematics, Informatics**
 
 *[UW Home Page]*
+
 ![UW](img/uw.jpeg)
 
 ## School Experience
@@ -30,8 +32,7 @@
 
 **Algorithm Engineer Intern** (June 2020 - September 2020)
 
-Contributed to writing, debugging, and optimizing algorithms for buildings picking, route planning, anomaly detection, address-similarity, etc. in Python
-
+- Contributed to writing, debugging, and optimizing algorithms for buildings picking, route planning, anomaly detection, address-similarity, etc. in Python
 - Executed the code creating automated reports in excel format, providing business insights
 - Accomplished data mining and analysis from the monitor platform 
 - Supported the development of a photo quality identification application
